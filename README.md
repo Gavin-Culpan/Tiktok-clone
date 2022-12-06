@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://tik-tok-clone-4f0d3.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
